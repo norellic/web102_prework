@@ -29,7 +29,7 @@ https://www.loom.com/share/3d031e43edd14f1fafc90d25f49cd653?sid=b214106c-a1ba-4f
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Loom
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
